@@ -1,7 +1,6 @@
 {
   "name": "Narwee Proxy",
   "description": "A simple web proxy",
-  "image": "heroku/nodejs",
   "addons": [],
   "buildpacks": [
     {
