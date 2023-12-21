@@ -1,21 +1,21 @@
 {
-  "name": "shuttle",
+  "name": "Narwee Proxy",
   "version": "3.0.0",
-  "description": "Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.",
+  "description": "Litterally just make your school admins dont block this 🙏😌",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuttlenetwork/shuttle"
+    "url": "git+https://github.com/Polerbeyr-Dauku/narwee"
   },
   "keywords": [
     "proxy"
   ],
   "author": "",
   "license": " GPL-3.0-or-later",
-  "homepage": "https://shuttleproxy.com",
+  "homepage": "https://discord.gg/wB2sCwpYu9",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
     "@tomphttp/bare-server-node": "^2.0.1",
